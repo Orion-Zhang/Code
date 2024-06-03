@@ -1,12 +1,14 @@
 # Code Repository
 
-## C
+## Todo
 
-1. Project - TicTacToe
+### C
+
+1. Project -> "TicTacToe"
     - 未加入难度调节。
-    - 未加入算法 Minimax & Alpha Beta。
+    - 未加入算法 `Minimax & Alpha Beta`。
 
-2. Project - Minesweeper
+2. Project -> "Minesweeper"
     - 未加入难度调节。
     - 未加入标记炸弹功能。
 
@@ -14,7 +16,7 @@
 
 4. 补充 Markdown 文档。
 
-## Data Structure
+### Data Structure
 
 1. 改进数据结构实现。
 
